@@ -1,4 +1,5 @@
 #include <iostream>
+#include <pqxx/pqxx>
 #include <fstream>
 #include <string>
 #include <sstream>
